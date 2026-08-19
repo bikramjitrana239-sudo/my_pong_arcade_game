@@ -1,0 +1,14 @@
+How To Start The Game:
+> Run the main.py file to load the pong game
+
+Rules of the game:
+> Use the Up, Down keys for up and down movement, in your keyboard to control the right or Fire paddle
+> Use the q, a keys for up and down movement, in your keyboard to control the left or Water paddle
+> If the fire paddle misses, then the water side scores a point
+> If the water paddle misses, then the fire side scores a point
+> If either the water or fire side scores 10 point then the game is over
+
+How To Restart The Game If Game Is Over:
+> Close the pong game window and again run the main.py file to restart the game
+
+and HAVE FUN
